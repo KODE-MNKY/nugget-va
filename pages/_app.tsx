@@ -70,7 +70,7 @@ export default function App({ Component, pageProps }: AppProps) {
         apiHost="https://flowise-dojo.moodmnky.com"
         theme={{
           button: {
-            backgroundColor: "#008140",
+            backgroundColor: "#15313E",
             right: 20,
             bottom: 20,
             size: "medium",
@@ -91,7 +91,7 @@ export default function App({ Component, pageProps }: AppProps) {
               avatarSrc: "https://cdn.shopify.com/s/files/1/0693/4328/1426/files/nugget.svg",
             },
             userMessage: {
-              backgroundColor: "#008140",
+              backgroundColor: "#15313E",
               textColor: "#ffffff",
               showAvatar: false,
               avatarSrc: "https://cdn.discordapp.com/attachments/1083532452347269220/1198302011888767156/5bda0b7be46cb971021b7630_sctc-logos-03_1_1.png",
@@ -100,7 +100,7 @@ export default function App({ Component, pageProps }: AppProps) {
               placeholder: "Type your question",
               backgroundColor: "#2F3437",
               textColor: "#ffffff",
-              sendButtonColor: "#008140",
+              sendButtonColor: "#15313E",
             }
           }
         }}
